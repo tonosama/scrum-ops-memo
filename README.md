@@ -1,2 +1,7 @@
-# collection_of_prompts
+# scrum-ops-memo
 オレオレプロンプト集
+
+## TODO
+- [ ] DDDとTDDマスターのつよつよエンジニアプロンプト
+- [ ] エンジニアの定義（ジュニア、シニア）
+- [ ] RDRA
